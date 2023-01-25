@@ -34,28 +34,6 @@
             "category": "code"
         },
         {
-            "question": "Quel est le langage de programmation le plus utilisé?",
-            "answers": [
-                "C++",
-                "JavaScript",
-                "Java",
-                "Python"
-            ],
-            "correctAnswer": 3,
-            "category": "programmation"
-        },
-        {
-            "question": "Qu'est-ce qu'un algorithme?",
-            "answers": [
-                "Un système informatique",
-                "Un type de fichier",
-                "Une suite d'instructions",
-                "Un outil de développement"
-            ],
-            "correctAnswer": 2,
-            "category": "programmation"
-        },
-        {
             "question": "Quel est le code HTML pour ajouter une image à votre page web?",
             "answers": [
                 "&lt;img&gt;",
@@ -64,6 +42,28 @@
                 "&lt;img src = &gt;"
             ],
             "correctAnswer": 3,
+            "category": "code"
+        },
+        {
+            "question": "Qu'est-ce que le HTML?",
+            "answers": [
+                "Un langage de programmation",
+                "Un système de gestion de base de données",
+                "Un langage de balisage",
+                "Un outil de création de sites web"
+            ],
+            "correctAnswer": 2,
+            "category": "code"
+        },
+        {
+            "question": "Quel est le code pour ajouter une feuille de style externe à une page HTML?",
+            "answers": [
+                "&lt;link rel='stylesheet'&gt;",
+                "&lt;css&gt;",
+                "&lt;style&gt;",
+                "&lt;stylesheet&gt;"
+            ],
+            "correctAnswer": 0,
             "category": "code"
         },
         {
@@ -89,50 +89,6 @@
             "category": "code"
         },
         {
-            "question": "Qu'est-ce qu'un serveur web?",
-            "answers": [
-                "Un type de fichier",
-                "Un ordinateur spécialisé",
-                "Un système de stockage de données",
-                "Un outil de développement"
-            ],
-            "correctAnswer": 1,
-            "category": "programmation"
-        },
-        {
-            "question": "Qu'est-ce que le HTML?",
-            "answers": [
-                "Un langage de programmation",
-                "Un système de gestion de base de données",
-                "Un langage de balisage",
-                "Un outil de création de sites web"
-            ],
-            "correctAnswer": 2,
-            "category": "code"
-        },
-        {
-            "question": "Quel est le code pour ajouter une feuille de style externe à une page HTML?",
-            "answers": [
-                "&lt;link rel='stylesheet'&gt;",
-                "&lt;css&gt;",
-                "&lt;style&gt;",
-                "&lt;stylesheet&gt;"
-            ],
-            "correctAnswer": 0,
-            "category": "code"
-        },
-        {
-            "question": "Qu'est-ce qu'un framework?",
-            "answers": [
-                "Un système informatique",
-                "Un type de fichier",
-                "Une collection de bibliothèques et d'outils pour le développement d'applications",
-                "Un outil de développement"
-            ],
-            "correctAnswer": 2,
-            "category": "programmation"
-        },
-        {
             "question": "Quel est le code HTML pour ajouter du texte à une page web?",
             "answers": [
                 "&lt;text&gt;",
@@ -142,72 +98,6 @@
             ],
             "correctAnswer": 3,
             "category": "code"
-        },
-        {
-            "question": "Quel est le code pour ajouter un script à une page HTML?",
-            "answers": [
-                "&lt;script&gt;",
-                "&lt;script&gt;",
-                "&lt;js&gt;",
-                "&lt;javascript&gt;"
-            ],
-            "correctAnswer": 0,
-            "category": "code"
-        },
-        {
-            "question": "Qu'est-ce qu'un serveur d'application?",
-            "answers": [
-                "Un système informatique",
-                "Un type de fichier",
-                "Un serveur web qui exécute des applications spécifiques",
-                "Un outil de développement"
-            ],
-            "correctAnswer": 2,
-            "category": "programmation"
-        },
-        {
-            "question": "Quel est le code HTML pour ajouter un titre à une page web?",
-            "answers": [
-                "&lt;title&gt;",
-                "&lt;title&gt;",
-                "&lt;header&gt;",
-                "&lt;h1&gt;"
-            ],
-            "correctAnswer": 0,
-            "category": "code"
-        },
-        {
-            "question": "Qu'est-ce qu'une base de données?",
-            "answers": [
-                "Un type de fichier",
-                "Un système de stockage de données",
-                "Un outil de gestion de données",
-                "Un système informatique"
-            ],
-            "correctAnswer": 1,
-            "category": "programmation"
-        },
-        {
-            "question": "Quel est le langage de programmation le plus utilisé pour le développement Web?",
-            "answers": [
-                "JavaScript",
-                "Python",
-                "Java",
-                "C++"
-            ],
-            "correctAnswer": 0,
-            "category": "code"
-        },
-        {
-            "question": "Quel est le système d'exploitation le plus populaire?",
-            "answers": [
-                "Mac OS X",
-                "Windows",
-                "Linux",
-                "iOS"
-            ],
-            "correctAnswer": 1,
-            "category": "système d'exploitation"
         },
         {
             "question": "Quelle est la commande Unix pour afficher le contenu d'un répertoire?",
@@ -232,26 +122,345 @@
             "category": "code"
         },
         {
-            "question": "Quel est le protocole de communication le plus utilisé pour le web?",
+            "question": "Quel est le code pour ajouter un script à une page HTML?",
             "answers": [
-                "TCP/IP",
-                "HTTP",
-                "FTP",
-                "SMTP"
+                "&lt;script&gt;",
+                "&lt;script&gt;",
+                "&lt;js&gt;",
+                "&lt;javascript&gt;"
             ],
-            "correctAnswer": 1,
-            "category": "reseaux"
+            "correctAnswer": 0,
+            "category": "code"
         },
         {
-            "question": "Quel est le système de gestion de base de données le plus utilisé?",
+            "question": "Quel est le langage de programmation le plus utilisé pour le développement Web?",
             "answers": [
-                "Access",
-                "SQL Server",
-                "Oracle",
-                "MySQL"
+                "JavaScript",
+                "Python",
+                "Java",
+                "C++"
+            ],
+            "correctAnswer": 0,
+            "category": "code"
+        },
+        {
+            "question": "Quel est le code HTML pour ajouter un titre à une page web?",
+            "answers": [
+                "&lt;title&gt;",
+                "&lt;title&gt;",
+                "&lt;header&gt;",
+                "&lt;h1&gt;"
+            ],
+            "correctAnswer": 0,
+            "category": "code"
+        },
+        {
+            "question": "Quel langage de programmation est le plus couramment utilisé pour le développement de jeux vidéo?",
+            "answers": [
+                "JavaScript",
+                "Python",
+                "C++",
+                "C#"
+            ],
+            "correctAnswer": 2,
+            "category": "code"
+        },
+        {
+            "question": "Quel langage de programmation est le plus couramment utilisé pour le développement d'application mobile?",
+            "answers": [
+                "JavaScript",
+                "Python",
+                "Java",
+                "C++"
+            ],
+            "correctAnswer": 2,
+            "category": "code"
+        },
+        {
+            "question": "Quel est le langage de programmation le plus utilisé?",
+            "answers": [
+                "C++",
+                "JavaScript",
+                "Java",
+                "Python"
             ],
             "correctAnswer": 3,
-            "category": "bases de donnees"
+            "category": "programmation"
+        },
+        {
+            "question": "Quel est le système d'exploitation le plus populaire?",
+            "answers": [
+                "Mac OS",
+                "Windows",
+                "Linux",
+                "Android"
+            ],
+            "correctAnswer": 1,
+            "category": "programmation"
+        },
+        {
+            "question": "Quel navigateur est le plus utilisé?",
+            "answers": [
+                "Safari",
+                "Chrome",
+                "Firefox",
+                "Opera"
+            ],
+            "correctAnswer": 1,
+            "category": "programmation"
+        },
+        {
+            "question": "Quel langage de programmation est le plus facile à apprendre?",
+            "answers": [
+                "C++",
+                "JavaScript",
+                "Java",
+                "Python"
+            ],
+            "correctAnswer": 4,
+            "category": "programmation"
+        },
+        {
+            "question": "Quel est le framework le plus populaire pour le développement Web?",
+            "answers": [
+                "Django",
+                "React",
+                "Angular",
+                "Flask"
+            ],
+            "correctAnswer": 2,
+            "category": "programmation"
+        },
+        {
+            "question": "Quel est le SGBD le plus populaire?",
+            "answers": [
+                "MySQL",
+                "MongoDB",
+                "SQLite",
+                "Oracle"
+            ],
+            "correctAnswer": 1,
+            "category": "programmation"
+        },
+        {
+            "question": "Quel est le langage de programmation le plus ancien?",
+            "answers": [
+                "C++",
+                "JavaScript",
+                "C",
+                "Python"
+            ],
+            "correctAnswer": 2,
+            "category": "programmation"
+        },
+        {
+            "question": "Quel est le langage de programmation le plus populaire pour le développement mobile?",
+            "answers": [
+                "C++",
+                "JavaScript",
+                "Kotlin",
+                "Python"
+            ],
+            "correctAnswer": 3,
+            "category": "programmation"
+        },
+        {
+            "question": "Quel est le format de fichier le plus utilisé pour le développement Web?",
+            "answers": [
+                "JSON",
+                "XML",
+                "YAML",
+                "CSV"
+            ],
+            "correctAnswer": 1,
+            "category": "programmation"
+        },
+        {
+            "question": "Quel est le langage de programmation le plus rapide?",
+            "answers": [
+                "C++",
+                "JavaScript",
+                "Java",
+                "Python"
+            ],
+            "correctAnswer": 1,
+            "category": "programmation"
+        },
+        {
+            "question": "Qu'est-ce qu'un algorithme?",
+            "answers": [
+                "Un système informatique",
+                "Un type de fichier",
+                "Une suite d'instructions",
+                "Un outil de développement"
+            ],
+            "correctAnswer": 2,
+            "category": "programmation"
+        },
+        {
+            "question": "Qu'est-ce qu'un serveur web?",
+            "answers": [
+                "Un type de fichier",
+                "Un ordinateur spécialisé",
+                "Un système de stockage de données",
+                "Un outil de développement"
+            ],
+            "correctAnswer": 1,
+            "category": "programmation"
+        },
+        {
+            "question": "Qu'est-ce qu'un framework?",
+            "answers": [
+                "Un système informatique",
+                "Un type de fichier",
+                "Une collection de bibliothèques et d'outils pour le développement d'applications",
+                "Un outil de développement"
+            ],
+            "correctAnswer": 2,
+            "category": "programmation"
+        },
+        {
+            "question": "Qu'est-ce qu'un serveur d'application?",
+            "answers": [
+                "Un système informatique",
+                "Un type de fichier",
+                "Un serveur web qui exécute des applications spécifiques",
+                "Un outil de développement"
+            ],
+            "correctAnswer": 2,
+            "category": "programmation"
+        },
+        {
+            "question": "Qu'est-ce qu'une base de données?",
+            "answers": [
+                "Un type de fichier",
+                "Un système de stockage de données",
+                "Un outil de gestion de données",
+                "Un système informatique"
+            ],
+            "correctAnswer": 1,
+            "category": "programmation"
+        },
+        {
+            "question": "Quel est le système d'exploitation le plus populaire?",
+            "answers": [
+                "Mac OS X",
+                "Windows",
+                "Linux",
+                "iOS"
+            ],
+            "correctAnswer": 1,
+            "category": "système d'exploitation"
+        },
+        {
+            "question": "Quel est le système d'exploitation le plus sécurisé?",
+            "answers": [
+                "Mac OS X",
+                "Windows",
+                "Linux",
+                "iOS"
+            ],
+            "correctAnswer": 2,
+            "category": "système d'exploitation"
+        },
+        {
+            "question": "Quel est le système d'exploitation le plus utilisé pour les serveurs web?",
+            "answers": [
+                "Mac OS X",
+                "Windows",
+                "Linux",
+                "iOS"
+            ],
+            "correctAnswer": 3,
+            "category": "système d'exploitation"
+        },
+        {
+            "question": "Quel est le système d'exploitation le plus utilisé dans les appareils mobiles?",
+            "answers": [
+                "Mac OS X",
+                "Windows",
+                "Linux",
+                "iOS"
+            ],
+            "correctAnswer": 4,
+            "category": "système d'exploitation"
+        },
+        {
+            "question": "Quel est le système d'exploitation le plus utilisé pour les ordinateurs de bureau?",
+            "answers": [
+                "Mac OS X",
+                "Windows",
+                "Linux",
+                "iOS"
+            ],
+            "correctAnswer": 2,
+            "category": "système d'exploitation"
+        },
+        {
+            "question": "Quel est le système d'exploitation le plus utilisé pour les développeurs?",
+            "answers": [
+                "Mac OS X",
+                "Windows",
+                "Linux",
+                "iOS"
+            ],
+            "correctAnswer": 3,
+            "category": "système d'exploitation"
+        },
+        {
+            "question": "Quel est le système d'exploitation le plus utilisé dans l'industrie des jeux vidéo?",
+            "answers": [
+                "Mac OS X",
+                "Windows",
+                "Linux",
+                "iOS"
+            ],
+            "correctAnswer": 2,
+            "category": "système d'exploitation"
+        },
+        {
+            "question": "Quel est le système d'exploitation le plus utilisé dans les appareils portables?",
+            "answers": [
+                "Mac OS X",
+                "Windows",
+                "Linux",
+                "iOS"
+            ],
+            "correctAnswer": 4,
+            "category": "système d'exploitation"
+        },
+        {
+            "question": "Quel est le système d'exploitation le plus populaire pour les ordinateurs portables?",
+            "answers": [
+                "Mac OS X",
+                "Windows",
+                "Linux",
+                "iOS"
+            ],
+            "correctAnswer": 1,
+            "category": "système d'exploitation"
+        },
+        {
+            "question": "Quel est le système d'exploitation le plus utilisé pour les ordinateurs de bureau?",
+            "answers": [
+                "Mac OS X",
+                "Windows",
+                "Linux",
+                "iOS"
+            ],
+            "correctAnswer": 2,
+            "category": "système d'exploitation"
+        },
+        {
+            "question": "Quel est le système d'exploitation le plus utilisé pour les appareils embarqués?",
+            "answers": [
+                "Mac OS X",
+                "Windows",
+                "Linux",
+                "iOS"
+            ],
+            "correctAnswer": 3,
+            "category": "système d'exploitation"
         },
         {
             "question": "Quel est le système d'exploitation le plus utilisé sur les serveurs Web?",
@@ -263,6 +472,160 @@
             ],
             "correctAnswer": 2,
             "category": "systeme d'exploitation"
+        },
+        {
+            "question": "Quel est le protocole de communication le plus utilisé pour le web?",
+            "answers": [
+                "TCP/IP",
+                "HTTP",
+                "FTP",
+                "SMTP"
+            ],
+            "correctAnswer": 1,
+            "category": "reseaux"
+        },
+        {
+            "question": "Quel est le protocole de communication le plus utilisé pour le transfert de fichiers?",
+            "answers": [
+                "TCP/IP",
+                "HTTP",
+                "FTP",
+                "SMTP"
+            ],
+            "correctAnswer": 2,
+            "category": "reseaux"
+        },
+        {
+            "question": "Quel est le protocole de communication le plus utilisé pour le courrier électronique?",
+            "answers": [
+                "TCP/IP",
+                "HTTP",
+                "FTP",
+                "SMTP"
+            ],
+            "correctAnswer": 3,
+            "category": "reseaux"
+        },
+        {
+            "question": "Quelle est la principale fonctionnalité de HTTP?",
+            "answers": [
+                "Un protocole de transport pour les données",
+                "Un protocole de transport pour les fichiers",
+                "Un protocole utilisé pour le transfert de données sur Internet",
+                "Un protocole utilisé pour le transfert de fichiers sur Internet"
+            ],
+            "correctAnswer": 2,
+            "category": "reseaux"
+        },
+        {
+            "question": "Quel est le protocole de transmission le plus utilisé pour le courrier électronique?",
+            "answers": [
+                "HTTP",
+                "SMTP",
+                "FTP",
+                "TCP/IP"
+            ],
+            "correctAnswer": 1,
+            "category": "reseaux"
+        },
+        {
+            "question": "Quel type de protocole est utilisé pour le transfert de page web?",
+            "answers": [
+                "SMTP",
+                "FTP",
+                "TCP/IP",
+                "HTTP"
+            ],
+            "correctAnswer": 3,
+            "category": "reseaux"
+        },
+        {
+            "question": "Quel protocole est le plus utilisé pour le transfert de fichiers sur Internet?",
+            "answers": [
+                "TCP/IP",
+                "HTTP",
+                "FTP",
+                "SMTP"
+            ],
+            "correctAnswer": 2,
+            "category": "reseaux"
+        },
+        {
+            "question": "Qu'est-ce que le protocole HTTP utilise-t-il pour communiquer?",
+            "answers": [
+                "UDP",
+                "TCP/IP",
+                "FTP",
+                "SMTP"
+            ],
+            "correctAnswer": 1,
+            "category": "reseaux"
+        },
+        {
+            "question": "Quel protocole est utilisé pour le transfert de fichiers entre ordinateurs?",
+            "answers": [
+                "TCP/IP",
+                "HTTP",
+                "FTP",
+                "SMTP"
+            ],
+            "correctAnswer": 2,
+            "category": "reseaux"
+        },
+        {
+            "question": "Quel protocole est utilisé pour envoyer des courriels?",
+            "answers": [
+                "TCP/IP",
+                "HTTP",
+                "FTP",
+                "SMTP"
+            ],
+            "correctAnswer": 3,
+            "category": "reseaux"
+        },
+        {
+            "question": "Qu'est-ce que le protocole TCP/IP?",
+            "answers": [
+                "Un protocole de transport pour les données",
+                "Un protocole de transport pour les fichiers",
+                "Un protocole utilisé pour le transfert de données sur Internet",
+                "Un protocole utilisé pour le transfert de fichiers sur Internet"
+            ],
+            "correctAnswer": 0,
+            "category": "reseaux"
+        },
+        {
+            "question": "Quel est le protocole le plus souvent utilisé pour le transfert de fichiers?",
+            "answers": [
+                "TCP/IP",
+                "HTTP",
+                "FTP",
+                "SMTP"
+            ],
+            "correctAnswer": 2,
+            "category": "reseaux"
+        },
+        {
+            "question": "Quel protocole est utilisé pour le transfert de données sur Internet?",
+            "answers": [
+                "TCP/IP",
+                "HTTP",
+                "FTP",
+                "SMTP"
+            ],
+            "correctAnswer": 0,
+            "category": "reseaux"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les documents texte?",
+            "answers": [
+                ".txt",
+                ".docx",
+                ".rtf",
+                ".pdf"
+            ],
+            "correctAnswer": 1,
+            "category": "format de fichier"
         },
         {
             "question": "Quel est le format de fichier le plus couramment utilisé pour les images?",
@@ -287,50 +650,6 @@
             "category": "format de fichier"
         },
         {
-            "question": "Quel est le nom de l'outil de versionning le plus populaire?",
-            "answers": [
-                "Git",
-                "SVN",
-                "CVS",
-                "Mercurial"
-            ],
-            "correctAnswer": 0,
-            "category": "versionning"
-        },
-        {
-            "question": "Quel est le format de fichier le plus couramment utilisé pour les documents texte?",
-            "answers": [
-                ".txt",
-                ".docx",
-                ".rtf",
-                ".pdf"
-            ],
-            "correctAnswer": 1,
-            "category": "format de fichier"
-        },
-        {
-            "question": "Quel est le protocole de communication le plus utilisé pour le courrier électronique?",
-            "answers": [
-                "TCP/IP",
-                "HTTP",
-                "FTP",
-                "SMTP"
-            ],
-            "correctAnswer": 3,
-            "category": "reseaux"
-        },
-        {
-            "question": "Quel langage de programmation est le plus couramment utilisé pour le développement d'application mobile?",
-            "answers": [
-                "JavaScript",
-                "Python",
-                "Java",
-                "C++"
-            ],
-            "correctAnswer": 2,
-            "category": "code"
-        },
-        {
             "question": "Quel est le format de fichier le plus couramment utilisé pour les fichiers compressés?",
             "answers": [
                 ".zip",
@@ -353,17 +672,6 @@
             "category": "format de fichier"
         },
         {
-            "question": "Quel langage de programmation est le plus couramment utilisé pour le développement de jeux vidéo?",
-            "answers": [
-                "JavaScript",
-                "Python",
-                "C++",
-                "C#"
-            ],
-            "correctAnswer": 2,
-            "category": "code"
-        },
-        {
             "question": "Quel est le format de fichier le plus couramment utilisé pour les bases de données?",
             "answers": [
                 ".sql",
@@ -375,45 +683,111 @@
             "category": "format de fichier"
         },
         {
-            "question": "Quel est le nom de l'outil de gestion de projet le plus populaire?",
-            "answers": [
-                "Jira",
-                "Confluence",
-                "GitHub",
-                "Trello"
-            ],
-            "correctAnswer": 0,
-            "category": "gestion de projet"
-        },
-        {
-            "question": "Quel est le langage de programmation le plus couramment utilisé pour le développement d'IA?",
-            "answers": [
-                "JavaScript",
-                "Python",
-                "R",
-                "C++"
-            ],
-            "correctAnswer": 1,
-            "category": "code"
-        },
-        {
-            "question": "Quel est le protocole de communication le plus utilisé pour le transfert de fichiers?",
-            "answers": [
-                "TCP/IP",
-                "HTTP",
-                "FTP",
-                "SMTP"
-            ],
-            "correctAnswer": 2,
-            "category": "reseaux"
-        },
-        {
             "question": "Quel est le format de fichier le plus couramment utilisé pour les images vectorielles?",
             "answers": [
                 ".jpg",
                 ".svg",
                 ".gif",
                 ".bmp"
+            ],
+            "correctAnswer": 1,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les images?",
+            "answers": [
+                ".jpg",
+                ".gif",
+                ".png",
+                ".tiff"
+            ],
+            "correctAnswer": 0,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les fichiers audio?",
+            "answers": [
+                ".aiff",
+                ".mp3",
+                ".wav",
+                ".wma"
+            ],
+            "correctAnswer": 1,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les vidéos?",
+            "answers": [
+                ".mov",
+                ".mp4",
+                ".avi",
+                ".wmv"
+            ],
+            "correctAnswer": 1,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les présentations?",
+            "answers": [
+                ".pptx",
+                ".pps",
+                ".ppt",
+                ".key"
+            ],
+            "correctAnswer": 0,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les bases de données?",
+            "answers": [
+                ".mdb",
+                ".accdb",
+                ".db",
+                ".sql"
+            ],
+            "correctAnswer": 1,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les feuilles de calcul?",
+            "answers": [
+                ".xls",
+                ".xlsx",
+                ".csv",
+                ".ods"
+            ],
+            "correctAnswer": 1,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les fichiers compressés?",
+            "answers": [
+                ".zip",
+                ".rar",
+                ".7z",
+                ".tar"
+            ],
+            "correctAnswer": 0,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les fichiers binaires?",
+            "answers": [
+                ".bin",
+                ".obj",
+                ".exe",
+                ".dll"
+            ],
+            "correctAnswer": 0,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les documents vectoriels?",
+            "answers": [
+                ".ai",
+                ".svg",
+                ".eps",
+                ".psd"
             ],
             "correctAnswer": 1,
             "category": "format de fichier"

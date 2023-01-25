@@ -54,13 +54,19 @@ $("#answers").append("<label><input type='radio' name='answer' value='" + i + "'
 // Fonction pour afficher le résultat final
 function displayResult(score, totalQuestions) {
 $("#quiz-container").empty();
-$("#quiz-container").append("<h1>Résultat final</h1>");
+$("#quiz-container").append("<h1>Resultat final</h1>");
 $("#quiz-container").append("<p>Vous avez obtenu " + score + " sur " + totalQuestions + "</p>");
 if (score < 5) {
             $('#quiz-container').append('<h1>niveau yassine, va bosser</h1>');
-        } else if (score < 10) {
+        } else if (score < 6) {
             $('#quiz-container').append('<h1>tes grave en avance</h1>');
         } else {
             $('#quiz-container').append('<h1>Dans tous les cas, tu feras du Wordpress</h1>');
         }
+        $("#quiz-container").append("<button id='back-btn'>Revenir en arriere</button>");
+        $("#back-btn").click(function() {
+            location.reload();
+        });
+        
+
 }
