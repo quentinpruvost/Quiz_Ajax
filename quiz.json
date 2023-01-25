@@ -1,39 +1,6 @@
 {
     "questions": [
         {
-            "question": "Quel est le nom de la capitale de la France?",
-            "answers": [
-                "Paris",
-                "Londres",
-                "Rome",
-                "Berlin"
-            ],
-            "correctAnswer": 0,
-            "category": "geographie"
-        },
-        {
-            "question": "Quel est le nom de la plus grande planète du système solaire?",
-            "answers": [
-                "Mercure",
-                "Vénus",
-                "Jupiter",
-                "Saturne"
-            ],
-            "correctAnswer": 2,
-            "category": "science"
-        },
-        {
-            "question": "Quel est le nom de l'auteur de l'oeuvre littéraire le plus célèbre de Shakespeare?",
-            "answers": [
-                "Hamlet",
-                "Macbeth",
-                "Othello",
-                "Romeo et Juliette"
-            ],
-            "correctAnswer": 0,
-            "category": "litterature"
-        },
-        {
             "question": "Quelle est la fonction principale de PHP?",
             "answers": [
                 "Le développement Web",
@@ -43,6 +10,413 @@
             ],
             "correctAnswer": 0,
             "category": "code"
+        },
+        {
+            "question": "Quelle est la commande MySQL pour créer une base de données?",
+            "answers": [
+                "CREATE DATABASE",
+                "CREATE TABLE",
+                "ALTER TABLE",
+                "SELECT * FROM"
+            ],
+            "correctAnswer": 0,
+            "category": "code"
+        },
+        {
+            "question": "Quel est le langage de programmation le plus utilisé pour le développement Web?",
+            "answers": [
+                "PHP",
+                "JavaScript",
+                "Python",
+                "C++"
+            ],
+            "correctAnswer": 1,
+            "category": "code"
+        },
+        {
+            "question": "Quel est le langage de programmation le plus utilisé?",
+            "answers": [
+                "C++",
+                "JavaScript",
+                "Java",
+                "Python"
+            ],
+            "correctAnswer": 3,
+            "category": "programmation"
+        },
+        {
+            "question": "Qu'est-ce qu'un algorithme?",
+            "answers": [
+                "Un système informatique",
+                "Un type de fichier",
+                "Une suite d'instructions",
+                "Un outil de développement"
+            ],
+            "correctAnswer": 2,
+            "category": "programmation"
+        },
+        {
+            "question": "Quel est le code HTML pour ajouter une image à votre page web?",
+            "answers": [
+                "&lt;img&gt;",
+                "&lt;image&gt;",
+                "&lt;picture&gt;",
+                "&lt;img src = &gt;"
+            ],
+            "correctAnswer": 3,
+            "category": "code"
+        },
+        {
+            "question": "Qu'est-ce que le CSS?",
+            "answers": [
+                "Un langage de programmation",
+                "Un système de gestion de base de données",
+                "Un langage de feuilles de style",
+                "Un outil de création de sites web"
+            ],
+            "correctAnswer": 2,
+            "category": "code"
+        },
+        {
+            "question": "Quel est le code HTML pour ajouter un lien à une page web?",
+            "answers": [
+                "&lt;link&gt;",
+                "&lt;a href&gt;",
+                "&lt;a&gt;",
+                "&lt;url&gt;"
+            ],
+            "correctAnswer": 1,
+            "category": "code"
+        },
+        {
+            "question": "Qu'est-ce qu'un serveur web?",
+            "answers": [
+                "Un type de fichier",
+                "Un ordinateur spécialisé",
+                "Un système de stockage de données",
+                "Un outil de développement"
+            ],
+            "correctAnswer": 1,
+            "category": "programmation"
+        },
+        {
+            "question": "Qu'est-ce que le HTML?",
+            "answers": [
+                "Un langage de programmation",
+                "Un système de gestion de base de données",
+                "Un langage de balisage",
+                "Un outil de création de sites web"
+            ],
+            "correctAnswer": 2,
+            "category": "code"
+        },
+        {
+            "question": "Quel est le code pour ajouter une feuille de style externe à une page HTML?",
+            "answers": [
+                "&lt;link rel='stylesheet'&gt;",
+                "&lt;css&gt;",
+                "&lt;style&gt;",
+                "&lt;stylesheet&gt;"
+            ],
+            "correctAnswer": 0,
+            "category": "code"
+        },
+        {
+            "question": "Qu'est-ce qu'un framework?",
+            "answers": [
+                "Un système informatique",
+                "Un type de fichier",
+                "Une collection de bibliothèques et d'outils pour le développement d'applications",
+                "Un outil de développement"
+            ],
+            "correctAnswer": 2,
+            "category": "programmation"
+        },
+        {
+            "question": "Quel est le code HTML pour ajouter du texte à une page web?",
+            "answers": [
+                "&lt;text&gt;",
+                "&lt;textarea&gt;",
+                "&lt;textarea&gt;",
+                "&lt;p&gt;"
+            ],
+            "correctAnswer": 3,
+            "category": "code"
+        },
+        {
+            "question": "Quel est le code pour ajouter un script à une page HTML?",
+            "answers": [
+                "&lt;script&gt;",
+                "&lt;script&gt;",
+                "&lt;js&gt;",
+                "&lt;javascript&gt;"
+            ],
+            "correctAnswer": 0,
+            "category": "code"
+        },
+        {
+            "question": "Qu'est-ce qu'un serveur d'application?",
+            "answers": [
+                "Un système informatique",
+                "Un type de fichier",
+                "Un serveur web qui exécute des applications spécifiques",
+                "Un outil de développement"
+            ],
+            "correctAnswer": 2,
+            "category": "programmation"
+        },
+        {
+            "question": "Quel est le code HTML pour ajouter un titre à une page web?",
+            "answers": [
+                "&lt;title&gt;",
+                "&lt;title&gt;",
+                "&lt;header&gt;",
+                "&lt;h1&gt;"
+            ],
+            "correctAnswer": 0,
+            "category": "code"
+        },
+        {
+            "question": "Qu'est-ce qu'une base de données?",
+            "answers": [
+                "Un type de fichier",
+                "Un système de stockage de données",
+                "Un outil de gestion de données",
+                "Un système informatique"
+            ],
+            "correctAnswer": 1,
+            "category": "programmation"
+        },
+        {
+            "question": "Quel est le langage de programmation le plus utilisé pour le développement Web?",
+            "answers": [
+                "JavaScript",
+                "Python",
+                "Java",
+                "C++"
+            ],
+            "correctAnswer": 0,
+            "category": "code"
+        },
+        {
+            "question": "Quel est le système d'exploitation le plus populaire?",
+            "answers": [
+                "Mac OS X",
+                "Windows",
+                "Linux",
+                "iOS"
+            ],
+            "correctAnswer": 1,
+            "category": "système d'exploitation"
+        },
+        {
+            "question": "Quelle est la commande Unix pour afficher le contenu d'un répertoire?",
+            "answers": [
+                "ls",
+                "cd",
+                "mv",
+                "mkdir"
+            ],
+            "correctAnswer": 0,
+            "category": "code"
+        },
+        {
+            "question": "Quelle est l'extension d'un fichier JavaScript?",
+            "answers": [
+                ".js",
+                ".html",
+                ".css",
+                ".java"
+            ],
+            "correctAnswer": 0,
+            "category": "code"
+        },
+        {
+            "question": "Quel est le protocole de communication le plus utilisé pour le web?",
+            "answers": [
+                "TCP/IP",
+                "HTTP",
+                "FTP",
+                "SMTP"
+            ],
+            "correctAnswer": 1,
+            "category": "reseaux"
+        },
+        {
+            "question": "Quel est le système de gestion de base de données le plus utilisé?",
+            "answers": [
+                "Access",
+                "SQL Server",
+                "Oracle",
+                "MySQL"
+            ],
+            "correctAnswer": 3,
+            "category": "bases de donnees"
+        },
+        {
+            "question": "Quel est le système d'exploitation le plus utilisé sur les serveurs Web?",
+            "answers": [
+                "Mac OS X",
+                "Windows",
+                "Linux",
+                "iOS"
+            ],
+            "correctAnswer": 2,
+            "category": "systeme d'exploitation"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les images?",
+            "answers": [
+                ".jpg",
+                ".png",
+                ".gif",
+                ".bmp"
+            ],
+            "correctAnswer": 1,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les vidéos?",
+            "answers": [
+                ".mp4",
+                ".avi",
+                ".mov",
+                ".flv"
+            ],
+            "correctAnswer": 0,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel est le nom de l'outil de versionning le plus populaire?",
+            "answers": [
+                "Git",
+                "SVN",
+                "CVS",
+                "Mercurial"
+            ],
+            "correctAnswer": 0,
+            "category": "versionning"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les documents texte?",
+            "answers": [
+                ".txt",
+                ".docx",
+                ".rtf",
+                ".pdf"
+            ],
+            "correctAnswer": 1,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel est le protocole de communication le plus utilisé pour le courrier électronique?",
+            "answers": [
+                "TCP/IP",
+                "HTTP",
+                "FTP",
+                "SMTP"
+            ],
+            "correctAnswer": 3,
+            "category": "reseaux"
+        },
+        {
+            "question": "Quel langage de programmation est le plus couramment utilisé pour le développement d'application mobile?",
+            "answers": [
+                "JavaScript",
+                "Python",
+                "Java",
+                "C++"
+            ],
+            "correctAnswer": 2,
+            "category": "code"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les fichiers compressés?",
+            "answers": [
+                ".zip",
+                ".gz",
+                ".tar",
+                ".7z"
+            ],
+            "correctAnswer": 0,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les présentations?",
+            "answers": [
+                ".ppt",
+                ".docx",
+                ".pdf",
+                ".key"
+            ],
+            "correctAnswer": 0,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel langage de programmation est le plus couramment utilisé pour le développement de jeux vidéo?",
+            "answers": [
+                "JavaScript",
+                "Python",
+                "C++",
+                "C#"
+            ],
+            "correctAnswer": 2,
+            "category": "code"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les bases de données?",
+            "answers": [
+                ".sql",
+                ".dbf",
+                ".csv",
+                ".mdb"
+            ],
+            "correctAnswer": 0,
+            "category": "format de fichier"
+        },
+        {
+            "question": "Quel est le nom de l'outil de gestion de projet le plus populaire?",
+            "answers": [
+                "Jira",
+                "Confluence",
+                "GitHub",
+                "Trello"
+            ],
+            "correctAnswer": 0,
+            "category": "gestion de projet"
+        },
+        {
+            "question": "Quel est le langage de programmation le plus couramment utilisé pour le développement d'IA?",
+            "answers": [
+                "JavaScript",
+                "Python",
+                "R",
+                "C++"
+            ],
+            "correctAnswer": 1,
+            "category": "code"
+        },
+        {
+            "question": "Quel est le protocole de communication le plus utilisé pour le transfert de fichiers?",
+            "answers": [
+                "TCP/IP",
+                "HTTP",
+                "FTP",
+                "SMTP"
+            ],
+            "correctAnswer": 2,
+            "category": "reseaux"
+        },
+        {
+            "question": "Quel est le format de fichier le plus couramment utilisé pour les images vectorielles?",
+            "answers": [
+                ".jpg",
+                ".svg",
+                ".gif",
+                ".bmp"
+            ],
+            "correctAnswer": 1,
+            "category": "format de fichier"
         }
     ]
 }
