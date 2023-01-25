@@ -63,10 +63,9 @@ if (score < 5) {
         } else {
             $('#quiz-container').append('<h1>Dans tous les cas, tu feras du Wordpress</h1>');
         }
-        $("#quiz-container").append("<button id='back-btn'>Revenir en arriere</button>");
+        $("#quiz-container").append("<button id='back-btn'>Revenir en arriere</h1></button>");
         $("#back-btn").click(function() {
             location.reload();
         });
-        
-
 }
+
