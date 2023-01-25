@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz en ligne</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <div id="quiz-container">
+        <h1>Mon Quiz</h1>
+        <form>
+            <label for="category-select">Choisir une catégorie :</label>
+            <select id="category-select">
+                <option value="toutes">Toutes</option>
+                <option value="geographie">Geographie</option>
+                <option value="science">Science</option>
+                <option value="litterature">Litterature</option>
+                <option value="code">code</option>
+            </select>
+            <div id="question"></div>
+            <div id="answers"></div>
+            <button type="submit" id="submit-btn">Envoyer</button>
+        </form>
+    </div>
+    <script src="quiz.js">
+    </script>
+</body>
+</html>

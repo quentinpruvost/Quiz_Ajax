@@ -1,0 +1,48 @@
+{
+    "questions": [
+        {
+            "question": "Quel est le nom de la capitale de la France?",
+            "answers": [
+                "Paris",
+                "Londres",
+                "Rome",
+                "Berlin"
+            ],
+            "correctAnswer": 0,
+            "category": "geographie"
+        },
+        {
+            "question": "Quel est le nom de la plus grande planète du système solaire?",
+            "answers": [
+                "Mercure",
+                "Vénus",
+                "Jupiter",
+                "Saturne"
+            ],
+            "correctAnswer": 2,
+            "category": "science"
+        },
+        {
+            "question": "Quel est le nom de l'auteur de l'oeuvre littéraire le plus célèbre de Shakespeare?",
+            "answers": [
+                "Hamlet",
+                "Macbeth",
+                "Othello",
+                "Romeo et Juliette"
+            ],
+            "correctAnswer": 0,
+            "category": "litterature"
+        },
+        {
+            "question": "Quelle est la fonction principale de PHP?",
+            "answers": [
+                "Le développement Web",
+                "Le développement d'applications mobiles",
+                "Le traitement de données",
+                "Le développement de jeux vidéo"
+            ],
+            "correctAnswer": 0,
+            "category": "code"
+        }
+    ]
+}
